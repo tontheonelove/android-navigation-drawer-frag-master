@@ -1,3 +1,3 @@
 # android-navigation-drawer-frag-master
 
-<img=Android-Navigation-Drawer-Example.png>
+<img src=Android-Navigation-Drawer-Example.png>
